@@ -201,3 +201,9 @@ cython_debug/
 # custom tings
 # ignore my test files
 *.test.py
+# tar archives
+*.tar
+# zip archives  
+*.zip
+# tar.gz archives
+*.tar.gz
