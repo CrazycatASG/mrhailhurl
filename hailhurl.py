@@ -1,5 +1,6 @@
 import sys
 import argparse
+import requests
 
 def regularinstall(package_name):
     pass
